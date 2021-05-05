@@ -1,5 +1,6 @@
 # CUNY Hackathon 2021
 # Website: https://menabebawy1.github.io/CUNY-Hackathon/
+# Winner of the Qoom Platform Prize for this Hackathon project!
 
 What inspired you to create this project? I wanted to create a practical environmental solution to a problem in NYC that everyone can actually participate in. I found that white roofs were an efficient, cheap, and easy solution and wanted to see them being implemented much more to curb climate change.
 
